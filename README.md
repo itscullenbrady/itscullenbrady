@@ -11,6 +11,5 @@
 
 ## 🔗 Find me around the web:
 - 💼 Portfolio: [readymag.website/u4271163533/itscullenbrady](https://readymag.website/u4271163533/itscullenbrady)
-- 🧠 GitHub Projects: [github.com/itscullenbrady](https://github.com/itscullenbrady)
 
 > "Always learning, always building."  
