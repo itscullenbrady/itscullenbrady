@@ -2,7 +2,7 @@
 
 Aspiring game developer & programmer from Nova Scotia, Canada  
 IT Programming from NSCC  
-🛠Working with: C#, Unity, Java, Spring, Kotlin, HTML/CSS/JS  
+Working with: C#, Unity, Java, Spring, Kotlin, HTML/CSS/JS  
 Passionate about: immersive games, systems design, tech experiments, and a bit of weird science  
 
 ## Current Projects
